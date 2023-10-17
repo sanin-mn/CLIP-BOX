@@ -42,8 +42,8 @@ function WatchHistory() {
           </thead>
           <tbody>
             {
-              history.length > 0 ?
-                history.map((item, index) => (
+              history?.length > 0 ?
+                history?.map((item, index) => (
                   <tr>
                     <td>{index + 1}</td>
                     <td>{item?.caption}</td>
