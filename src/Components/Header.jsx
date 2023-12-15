@@ -10,7 +10,7 @@ function Header() {
                 <Navbar.Brand className='fw-bold fs-4' >
                    <Link to={'/'} style={{textDecoration:'none',color:'white'}}>
                         <i className="fa-solid fa-cloud-arrow-up fa-bounce" style={{ color: 'black' }}></i>{' '}
-                        Video App
+                        CLIP BOX
                    </Link>
                 </Navbar.Brand>
             </Container>

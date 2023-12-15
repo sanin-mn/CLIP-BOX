@@ -13,9 +13,9 @@ function Landingpage() {
     <>
       <div className='bagRound d-flex align-items-center justify-content-evenly' >
         <div>
-          <h1>Welcome to <span style={{ color: 'orange' }}>Video App</span></h1>
+          <h1>Welcome to <span style={{ color: 'orange' }}>CLIP BOX</span></h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque facilis sapiente, <br /> corporis quidem culpa sequi perspiciatis tenetur vero quibusdam itaque dolorum tempore. <br /> Fuga magni minus nostrum asperiores aut doloribus beatae?</p>
-          <button onClick={navigate} type='submit' style={{ backgroundColor: 'orange', color: 'white', borderRadius: '5px', width: '10rem', padding: '10px' }}>Get Started .</button>
+          <button onClick={navigate} type='submit' style={{ backgroundColor: 'orange', color: 'white', borderRadius: '5px', width: '10rem', padding: '10px' }}>Getting Started</button>
 
         </div>
         <div>

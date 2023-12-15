@@ -9,7 +9,7 @@ function Footer() {
                 <div className="wesite">
                     <h4>
                         <i className="fa-solid fa-cloud-arrow-up fa-bounce" style={{ color: 'black' }}></i>{' '}
-                        Video App
+                        CLIP BOX
                     </h4>
                     <p style={{ color: '#303030' }}>Lorem ipsum dolor sit ametb <br /> consectetur adipisicing elit. <br /> Odio consectetur tempora maiores dolore.</p>
                 </div>
